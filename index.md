@@ -1,0 +1,13 @@
+# Workshop on Audio-Visual Analytics
+
+This workshop aims to build a community of researchers from both
+the visualization and the sonification communities and to work towards
+a common language, find research gaps, and identify directions
+for research on audio-visual data analysis idioms. We scheduled
+the larger part of the day for group and plenary discussions.
+Therefore, there will be no call for presenters and it is open to
+all IEEE VIS 2021 attendees. We expect the workshop to result
+in an outline for a research agenda to combine visualization and
+sonification.
+
+**Further information will be announced soon.**
