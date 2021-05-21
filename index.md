@@ -1,3 +1,8 @@
+---
+layout: page
+title: Home
+---
+
 # Workshop on Audio-Visual Analytics
 
 This workshop aims to build a community of researchers from both
