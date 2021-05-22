@@ -22,7 +22,7 @@ title: Audio-Visual Analytics
 email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
   Towards a Research Agenda for Integrating Sonification and Visualization
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/website-demo" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
@@ -39,7 +39,7 @@ fixed_navbar: top
 hide_share_buttons: true
 
 # site variables
-github_repository: "https://github.com/ieee-vgtc/ieeevis.org"
+github_repository: "https://github.com/alex-rind/website-demo"
 
 # Exclude from processing.
 # The following items will not be processed, by default.

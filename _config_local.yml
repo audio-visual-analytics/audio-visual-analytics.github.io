@@ -1,0 +1,5 @@
+# override some config for local testing
+# use with `bundle exec jekyll serve --config _config.yml,_config_local.yml`
+# cp. <https://stackoverflow.com/a/37087102/1140589>
+
+baseurl: "" # the subpath of your site, e.g. /blog
