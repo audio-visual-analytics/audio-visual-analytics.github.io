@@ -1,0 +1,19 @@
+---
+---
+
+$primary: #6f2184;
+$secondary: #26853c;
+// $link: $blue;
+// $info: $cyan
+// $success: $green
+// $warning: $yellow
+// $danger: $red
+$dark: #222;
+$text: #555;
+
+// Import Main CSS file from theme
+@import "main";
+
+.title, .content h1, .content h2 {
+    color: $secondary;
+}

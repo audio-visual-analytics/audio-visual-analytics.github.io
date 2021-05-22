@@ -1,0 +1,28 @@
+<footer class="footer">
+    <div class="container">
+
+        {% if site.footer_menu %}
+        <div class="columns is-multiline">
+            {% for item in site.data[site.footer_menu] %}
+            <div class="column has-text-centered">
+                <div>
+                    <a href="{{ item.link | relative_url }}" class="link">{{ item.name }}</a>
+                </div>
+            </div>
+            {% endfor %}
+        </div>
+        {% endif %}
+
+        <div class="columns content is-small has-text-centered">
+            <div class="column">
+                <a href="https://www.fhstp.ac.at/en/legal-information/legal-information">Imprint</a>
+            </div>
+            <div class="column">
+                <a href="{{ site.github_repository }}/edit/vis2021/content/{{ source_file }}" target="_blank" class="link">Suggest a change</a>
+            </div>
+            <div class="column">
+                Built with GitHub Pages and <a href="https://github.com/chrisrhymes/bulma-clean-theme">bulma-clean-theme</a>
+            </div>
+        </div>
+    </div>
+</footer>

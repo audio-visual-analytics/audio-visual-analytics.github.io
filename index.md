@@ -1,6 +1,7 @@
 ---
 layout: page
-title: Home
+# title: Home
+show_sidebar: true
 ---
 
 # Workshop on Audio-Visual Analytics
