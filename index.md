@@ -3,8 +3,9 @@ layout: page
 # title: Home
 show_sidebar: true
 # hero_image: img/sonivis7.png
-# subtitle: Identifying Research Gaps for Integrating Sonification and Visualization
-hide_hero: true
+title: Audio-Visual Analytics
+subtitle: Identifying Research Gaps for Integrating Sonification and Visualization
+# hide_hero: true
 ---
 
 <!-- <section class="hero is-medium is-bold is-primary">
@@ -19,8 +20,6 @@ hide_hero: true
 </section> -->
 
 ![Conceptual process of audio-visual data analysis: data are transformed and encoded to form visual and auditory representations for the human analyst who interactively steers the idiom for their data analysis](/img/sonivis7.png){:class="img-responsive"}
-
-# Identifying Research Gaps for Integrating Sonification and Visualization
 
 Visualization and sonification are two approaches for conveying data to humans based on complementary high-bandwidth information processing systems. Kramer et al.  defined sonification as “the use of nonspeech audio to convey information.” Tamara Munzner defines visualization as follows: “Computer-based visualization systems provide visual representations of datasetsdesigned to help people carry out tasks more effectively.” Both visualization and sonification address the purpose of involving human analysts in data analysis. There are several similarities between the methods and design theories of both approaches, such as the use of perceptual variables to encode data attributes, and the role of interaction in manipulating the data representations.
 
