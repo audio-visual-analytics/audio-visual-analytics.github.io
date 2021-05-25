@@ -3,3 +3,6 @@
 # cp. <https://stackoverflow.com/a/37087102/1140589>
 
 baseurl: "" # the subpath of your site, e.g. /blog
+
+## livereload does not work on my machine (AR 25 May 2021)
+# livereload: true

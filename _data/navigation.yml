@@ -1,0 +1,10 @@
+- name: VIS 2021
+  link: /vis2021.html
+# - name: Knowledge Base
+#   link: /knowledgebase/
+- name: Organizers
+  link: /organizers.html
+
+  # dropdown:
+    # - name: Page With Sidebar
+    #   link: /page-1/
