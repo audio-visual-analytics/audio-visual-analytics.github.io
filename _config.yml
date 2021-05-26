@@ -41,6 +41,14 @@ hide_share_buttons: true
 # site variables
 github_repository: "https://github.com/alex-rind/website-demo"
 
+defaults:
+  -
+    scope:
+      path: ""
+      type: "pages"
+    values:
+      show_sidebar: true
+
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to

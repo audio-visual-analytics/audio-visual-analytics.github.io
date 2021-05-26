@@ -25,5 +25,4 @@ Visualization and sonification are two approaches for conveying data to humans b
 
 Over the recent decades, both fields have established research communities, theoretical frameworks, and toolkit support. Although extensive research has been carried out both on the auditory andvisual representation of data, comparatively little is known about their systematic and complementary combination for data analysis. One example of multimodal research is Keith Nesbitt’s dissertation. Also, Walker and Kramer pointed out that research on thedesign and the use of multimodal sonification is important to drive sonification and visualization research forward. There are potential powerful synergies in combining both modalities to address the individual limitations of each one. Nevertheless, existing research on combinations has often focused only on one of the modalities.
 
-
-**Further information will be announced soon.**
+**More information about the workshop will be published here in time before the event.**
