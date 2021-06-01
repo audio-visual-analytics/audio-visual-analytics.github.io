@@ -4,7 +4,7 @@ title: Organizers
 show_sidebar: true
 ---
 
-[Wolfgang. Aigner](https://icmt.fhstp.ac.at/en/team/wolfgang-aigner),
+[Wolfgang Aigner](https://icmt.fhstp.ac.at/en/team/wolfgang-aigner),
 St. Pölten University of Applied Sciences, Austria
 and TU&nbsp;Wien, Austria
 
