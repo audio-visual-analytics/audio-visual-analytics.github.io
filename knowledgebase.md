@@ -1,18 +1,15 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: Knowledge Base
+# permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+## Example Projects
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+* [Covid's death toll](https://www.bbc.co.uk/news/resources/idt-7464500a-6368-4029-aa41-ab94e0ee09fb) by the BBC Visual and Data Journalism team
+* [COVID-19 Listening Project](https://enzodesena.github.io/covid-listening-project/) by Enzo De Sena and Milton Mermikides
+* [Earthquakes 1993-2013](https://vimeo.com/153653264) by the Seismic Sound Lab
+* [Listen to Wikipedia](http://listen.hatnote.com/) by Stephen LaPorte and Mahmoud Hashemi
+* [Temperature recordings in Stockholm](https://weber.itn.liu.se/~nikro27/sounddesign/#example) by Niklas Rönnberg
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+<!-- <i class="fas fa-video"></i>  -->
