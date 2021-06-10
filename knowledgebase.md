@@ -3,6 +3,7 @@ layout: page
 title: Knowledge Base
 # permalink: /about/
 show_sidebar: false
+toc: true
 ---
 
 ## Selected Example Projects
