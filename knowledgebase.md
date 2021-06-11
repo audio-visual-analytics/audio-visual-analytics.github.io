@@ -21,7 +21,8 @@ toc: true
 <div class="column">
 
 * [Data Sonification Archive](https://sonification.design/) by Sara Lenzi, Paolo Ciuccarelli, Yuan Hua, and Houjiang Liu
-
+* [Examples of Auditory Displays](https://icad.org/examples/) from the <a href="https://sonification.de/handbook/">Sonification Handbook</a>
+  
 </div>
 <div class="column">
 ?
