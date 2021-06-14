@@ -20,13 +20,17 @@ toc: true
 <div class="columns is-variable is-8">
 <div class="column">
 
+##### Sonification Collections
+
 * [Data Sonification Archive](https://sonification.design/) by Sara Lenzi, Paolo Ciuccarelli, Yuan Hua, and Houjiang Liu
 
 </div>
-<div class="column">
+<!-- <div class="column">
 ?
-</div>
+</div> -->
 <div class="column">
+
+##### Visualization Collections
 
 * [Data Visualisation Catalogue](https://datavizcatalogue.com/) by Severino Ribecca
 * [Visualization Techniques for Time-Oriented Data](https://vcg.informatik.uni-rostock.de/~ct/timeviz/timeviz.html) by Christian Tominski and Wolfgang Aigner
@@ -46,6 +50,8 @@ toc: true
 <div class="columns is-variable is-8">
 <div class="column">
 
+##### Sonification Tool(-kits)
+
 * [SuperCollider](https://supercollider.github.io/): audio synthesis and algorithmic composition
 * [Csound](https://csound.com/): sound and music computing system
 * [Pure Data](https://puredata.info/): visual programming language for multimedia
@@ -53,10 +59,12 @@ toc: true
 * [howler.js](https://github.com/goldfire/howler.js): web audio library with cross-browser support
 
 </div>
-<div class="column">
+<!-- <div class="column">
 ?
-</div>
+</div> -->
 <div class="column">
+
+##### Visualization Tool(-kits)
 
 * [D3.js](https://d3js.org/): a JavaScript library for manipulating documents based on data
 * [Vega-Lite](https://vega.github.io/vega-lite/): a grammar of interactive graphics
