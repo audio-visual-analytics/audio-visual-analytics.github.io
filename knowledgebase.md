@@ -23,8 +23,8 @@ toc: true
 ##### Sonification Collections
 
 * [Data Sonification Archive](https://sonification.design/) by Sara Lenzi, Paolo Ciuccarelli, Yuan Hua, and Houjiang Liu
-* [Examples of Auditory Displays](https://icad.org/examples/) from the <a href="https://sonification.de/handbook/">Sonification Handbook</a>
-  
+* [Examples of Auditory Displays](https://icad.org/examples/) from the [Sonification Handbook](https://sonification.de/handbook/)
+
 </div>
 <!-- <div class="column">
 ?
