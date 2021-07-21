@@ -52,6 +52,8 @@ Some illustrative examples:
 Over the recent decades, both fields have established research communities, theoretical frameworks, and toolkit support. Although extensive research has been carried out both on the auditory andvisual representation of data, comparatively little is known about their systematic and complementary combination for data analysis. One example of multimodal research is Keith Nesbitt’s dissertation. Also, Walker and Kramer pointed out that research on the design and the use of multimodal sonification is important to drive sonification and visualization research forward. There are potential powerful synergies in combining both modalities to address the individual limitations of each one. Nevertheless, existing research on combinations has often focused only on one of the modalities.
 
 Actual multimodal approaches should be based on complementary and mutually supportive interplays between data representations on the visual and the auditory domain.
-This workshop aims to build a community of researchers from both fields, to work towards a common language, and to find research gaps for a combined visualization and sonification theory.
+This workshop series aims to build a community of researchers from both fields, to work towards a common language, and to find research gaps for a combined visualization and sonification theory.
 
-**More information about the workshop will be published here in time before the event.**
+**Upcoming workshops:**
+* [Audio Mostly (virtual): September 3, 2021](am2021)
+* [IEEE VIS (virtual): October 25, 2021](vis2021)
