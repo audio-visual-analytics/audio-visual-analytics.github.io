@@ -54,6 +54,6 @@ Over the recent decades, both fields have established research communities, theo
 Actual multimodal approaches should be based on complementary and mutually supportive interplays between data representations on the visual and the auditory domain.
 This workshop series aims to build a community of researchers from both fields, to work towards a common language, and to find research gaps for a combined visualization and sonification theory.
 
-**Upcoming workshops:**
+**Past workshops:**
 * [Audio Mostly (virtual): September 3, 2021](am2021)
 * [IEEE VIS (virtual): October 25, 2021](vis2021)
