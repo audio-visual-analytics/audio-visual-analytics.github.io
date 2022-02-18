@@ -1,12 +1,17 @@
-- name: AM 2021
-  link: /am2021.html
-- name: VIS 2021
-  link: /vis2021.html
+- name: AVI 2022
+  link: /avi2022.html
+- name: Meet-Ups
+  link: /meetups.html
 - name: Knowledge Base
   link: /knowledgebase.html
 - name: Organizers
   link: /organizers.html
-
-  # dropdown:
-    # - name: Page With Sidebar
-    #   link: /page-1/
+- name: Archive
+  link: /archive.html
+  dropdown:
+    - name: AM 2021
+      link: /am2021.html
+    - name: VIS 2021
+      link: /vis2021.html
+    - name: All news posts
+      link: posts/
