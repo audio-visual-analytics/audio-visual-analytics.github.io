@@ -5,6 +5,8 @@ title: Community Meet-Ups
 
 The Audio-Visual-Analytics Community (AVAC) is a young international community, interested in the combination of information visualization and sonification. The AVAC Meet-Up is a format we want to establish as a regular virtual meeting for our young community, to discuss ideas and projects of our members. We aim for one meeting every second month, lasting about 1.5 or 2 hours each.
 
+If you want to join the Meet-Ups please contact [Kajetan](mailto:kajetan.enge@fhstp.ac.at). He will provide you with the Zoom invitation. Please also get in touch if you would like to present your work at one of the AVAC Meet-Ups.
+
 # 25 May 2022
 
 - [Sara Lenzi](https://www.saralenzi.com/) (Northeastern University, USA)
