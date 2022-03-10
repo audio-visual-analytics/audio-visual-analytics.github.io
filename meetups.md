@@ -7,7 +7,7 @@ The Audio-Visual-Analytics Community (AVAC) is a young international community, 
 
 # 25 May 2022
 
-- [Sara Lenzi](https://www.saralenzi.com/)(Northeastern University, USA)
+- [Sara Lenzi](https://www.saralenzi.com/) (Northeastern University, USA)
 - tba
 
 # First week of April 2022
