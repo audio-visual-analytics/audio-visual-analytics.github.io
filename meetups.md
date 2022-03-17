@@ -14,7 +14,7 @@ If you want to join the Meet-Ups, please contact [Kajetan](mailto:kajetan.enge@f
 
 # 6 April 2022 (6pm CEST - Vienna)
 
-- [Rafael Bresciani](https://rafaelbresciani.com/statement) will give insigths into his project [Vox Aeternia](https://rafaelbresciani.com/voxaeterna)
+- [Rafael Bresciani](https://rafaelbresciani.com/statement) will give insigths into his project [Vox Aeterna](https://rafaelbresciani.com/voxaeterna)
 - [Jordan Wirfs-Brock](https://jwirfs-brock.github.io/JWB_website/) & [Maxene Graze](https://www.datagrazer.codes/) will talk about their work on [sensory sketching](https://sensorysketching.com/). 
 
 # 25 January 2022 (6pm CEST - Vienna)
