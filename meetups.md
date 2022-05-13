@@ -9,7 +9,7 @@ If you want to join the Meet-Ups, please contact [Kajetan](mailto:kajetan.enge@f
 
 # 25 May 2022 (6pm CEST - Vienna)
 
-- [Sara Lenzi](https://www.saralenzi.com/) (Northeastern University, USA)
+- Sara Lenzi and Paolo Ciuccarelli (Center for Design, Northeastern University, USA)
 - tba
 
 # 6 April 2022 (6pm CEST - Vienna)
