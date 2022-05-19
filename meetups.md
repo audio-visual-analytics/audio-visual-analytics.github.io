@@ -9,7 +9,7 @@ If you want to join the Meet-Ups, please contact [Kajetan](mailto:kajetan.enge@f
 
 # 25 May 2022 (6pm CEST - Vienna)
 
-- Iason Svoronos-Kanavas (Ionian University & Linköping University) will talk about his paper “An exploratory use of audiovisual displays on oceanographic data” (https://zenodo.org/record/6555839)
+- Iason Svoronos-Kanavas (Ionian University & Linköping University) will talk about his paper [An exploratory use of audiovisual displays on oceanographic data](https://zenodo.org/record/6555839)
 - [Sara Lenzi](https://www.saralenzi.com) and [Paolo Ciuccarelli](https://camd.northeastern.edu/faculty/paolo-ciuccarelli) (Center for Design, Northeastern University, USA) will talk about their research combining sonification and visualization.
 
 # 6 April 2022 (6pm CEST - Vienna)
