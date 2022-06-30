@@ -56,6 +56,7 @@ This workshop series aims to build a community of researchers from both fields, 
 
 **Upcoming events:**
 * [AVAC Meet-Up: t.b.a. (autumn 2022)](meetups)
+* Application Spotlight @ IEEE VIS (Oklahoma City, USA/hybrid): October 16-21, 2022
 
 **Past events:**
 * [3rd Workshop on Audio-Visual Analytics @ Int. Conf. Advanced Visual Interfaces: June 7, 2022](avi2022)
