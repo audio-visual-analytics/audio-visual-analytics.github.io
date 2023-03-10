@@ -55,9 +55,10 @@ Actual multimodal approaches should be based on complementary and mutually suppo
 This workshop series aims to build a community of researchers from both fields, to work towards a common language, and to find research gaps for a combined visualization and sonification theory.
 
 **Upcoming events:**
-* [AVAC Meet-Up: t.b.a. (autumn 2022)](meetups)
+* to be announced
 
 **Past events:**
+* [AVAC Online Meet-Ups](meetups)
 * [Application Spotlight @ IEEE VIS (Oklahoma City, USA/hybrid): October 20, 2022](vis2022)
 * [3rd Workshop on Audio-Visual Analytics @ Int. Conf. Advanced Visual Interfaces: June 7, 2022](avi2022)
 * [Workshop @ IEEE VIS (virtual): October 25, 2021](vis2021)
