@@ -16,7 +16,7 @@ Limited liability company
 
 ## Registered office and business address
 
-Matthias Corvinus-Strasse 15, 3100 St. Pölten \\
+Campus-Platz 1, 3100 St. Pölten \\
 Registered in the register of companies of St. Pölten provincial court under FN 146616m \\
 VAT ID: ATU 53208201 \\
 Data protection reg. no. 1028669F
@@ -24,14 +24,22 @@ Data protection reg. no. 1028669F
 ## Executive bodies and officers
 ### Management Board
 
-Gernot Kohl, MSc
+- FH-Prof. Dipl.-Ing. Haag Johann
+- FH-Prof. Dipl.-Ing. Raffaseder Hannes
+
+### Supervisory Board
+
+- Mag. Alfred Kellner, PhD
+- Mag. Erwin Mandl
+- Dr. Martina Amler
+- FH-Prof. Mag. Ewald Volk
+- FH-Prof. Mag. Dr. Jutta Kutrovatz
 
 ## Contact
 
 Fachhochschule St. Pölten GmbH \\
-Matthias Corvinus-Strasse 15, 3100 St. Pölten \\
+Campus-Platz 1, 3100 St. Pölten \\
 Tel. +43 (0)2742 313228-333 \\
-Fax: +43 (0)2742 313228-339 \\
 E-mail: <csc@fhstp.ac.at>
 
 [Workshop organizers](organizers.html)
