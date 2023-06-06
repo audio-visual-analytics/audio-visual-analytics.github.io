@@ -55,7 +55,8 @@ Actual multimodal approaches should be based on complementary and mutually suppo
 This workshop series aims to build a community of researchers from both fields, to work towards a common language, and to find research gaps for a combined visualization and sonification theory.
 
 **Upcoming events:**
-* to be announced
+* [Panel Discussion @ ICAD 2023 (Norrköping, Sweden): June 29, 2023](icad2023)
+<!-- * to be announced -->
 
 **Past events:**
 * [AVAC Online Meet-Ups](meetups)
