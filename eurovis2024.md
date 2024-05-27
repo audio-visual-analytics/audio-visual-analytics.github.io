@@ -50,7 +50,7 @@ To facilitate an insightful and productive discussion, we invited scholars from 
 * [Daniel Västfjäll](https://liu.se/en/employee/danva85) (Linköping University)
 * [Paul Vickers](https://www.northumbria.ac.uk/about-us/our-staff/v/paul-vickers/) (Northumbria University) -->
 
-{% assign gallery=site.data.icad_panelists %}
+{% assign gallery=site.data.eurovis_panelists %}
 <div class="columns is-multiline">
 {% for image in gallery %}
 <div class="column is-4-desktop is-6-tablet">
