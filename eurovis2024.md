@@ -28,7 +28,7 @@ The research communities studying visualization and sonification for data displa
 <https://phaidra.fhstp.ac.at/o:5544>
 
 **Corpus as a Zotero Library:**
-<https://diglib.eg.org/handle/10.1111/cgf15114>
+<https://www.zotero.org/groups/integrationsonificationvisualization/items>
 
 
 ## Integrating Sonification and Visualization -- But Why? {#panel}
