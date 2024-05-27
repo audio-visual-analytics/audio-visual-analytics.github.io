@@ -31,7 +31,7 @@ The research communities studying visualization and sonification for data displa
 <https://diglib.eg.org/handle/10.1111/cgf15114>
 
 
-## Integrating Sonification and Visualization -- But Why? {#star}
+## Integrating Sonification and Visualization -- But Why? {#panel}
 
 **Organizers:**
  Alexander Rind, Kajetan Enge, Michael Iber, Niklas Rönnberg, Sara Lenzi, Elias Elmquist, Valentina Caiola, Fangfei Lan, Robert Höldrich, and Wolfgang Aigner
