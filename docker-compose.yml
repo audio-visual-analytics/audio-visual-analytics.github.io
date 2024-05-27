@@ -9,4 +9,4 @@ services:
     volumes:
       - ./:/usr/src/app
     tty: true
-    entrypoint: bundle exec jekyll serve --watch --force_polling -H 0.0.0.0 -P 4000
+    entrypoint: bundle exec jekyll serve --config _config.yml,_config_local.yml --watch --force_polling -H 0.0.0.0 -P 4000

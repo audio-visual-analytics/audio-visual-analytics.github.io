@@ -1,5 +1,5 @@
-- name: ICAD 2023
-  link: /icad2023.html
+- name: EuroVis 2024
+  link: /eurovis2024.html
 - name: Meet-Ups
   link: /meetups.html
 - name: Knowledge Base
@@ -17,5 +17,7 @@
       link: /avi2022.html
     - name: VIS 2022
       link: /vis2022.html
+    - name: ICAD 2023
+      link: /icad2023.html
     - name: All news posts
       link: posts/
