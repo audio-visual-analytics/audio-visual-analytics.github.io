@@ -1,9 +1,9 @@
-- link: img/pauletto-200.jpg
+- link: img/pauletto-200.png
   name: Sandra Pauletto
   affiliation: KTH Royal Institute of Technology
   url: https://www.kth.se/profile/pauletto
   description: |-
-    is associate professor in media technology at KTH Royal Institute of Technology, Sweden. Her research spans across sound and music computing, sonification, media production and sound design.
+    is associate professor in media technology. Her research spans across sound and music computing, sonification, media production and sound design.
 - link: img/ronnberg-800.jpg
   name: Niklas Rönnberg
   affiliation: Linköping University
@@ -15,12 +15,12 @@
   affiliation: TU Wien
   url: https://renataraidou.com/
   description: |-
-    is assistant professor in medical visualization and visual analytics at the Research Unit of Computer Graphics of the Institute of Visual Computing & Human-Centered Technology at TU Wien, Austria.
+    is assistant professor in medical visualization and visual analytics.
     Her research focus is on the interface between visual analytics, image processing, and machine learning, with a strong focus on medical applications.
 - link: img/elmqvist-800.jpg
   name: Niklas Elmqvist
   affiliation: Aarhus University
   url: https://cs.au.dk/~elm/
   description: |-
-    is a Villum Investigator, an IEEE Fellow, and a full professor in the Department of Computer Science at Aarhus University in Aarhus, Denmark.
-    His research area is data visualization, human-computer interaction, and visual analytics.
+    is a full professor in data visualization, human-computer interaction, and visual analytics.
+    He and his students have worked on supporting BLV individuals since 2018, including for reverse-engineering charts and cross-modal touch-enabled scatterplots.

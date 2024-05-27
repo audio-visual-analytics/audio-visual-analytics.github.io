@@ -43,17 +43,10 @@ The research communities studying visualization and sonification for data displa
 
 To facilitate an insightful and productive discussion, we invited scholars from both communities to participate to join a panel discussion on the topic:
 
-<!-- * [Camilla Forsell](https://liu.se/en/employee/camfo15) (Linköping University)
-* [Katharina Groß-Vogt](https://iaem.at/Members/vogt) (University of Music and Performing Arts Graz)
-* [Ingrid Hotz](https://liu.se/en/employee/ingho32) (Linköping University)
-* [Sara Lenzi](https://www.saralenzi.com/) (TU Delft)
-* [Daniel Västfjäll](https://liu.se/en/employee/danva85) (Linköping University)
-* [Paul Vickers](https://www.northumbria.ac.uk/about-us/our-staff/v/paul-vickers/) (Northumbria University) -->
-
 {% assign gallery=site.data.eurovis_panelists %}
 <div class="columns is-multiline">
 {% for image in gallery %}
-<div class="column is-4-desktop is-6-tablet">
+<div class="column is-3-desktop is-6-tablet">
     <div class="card">
         <div class="card-image">
           <img src="{{ image.link }}" alt="Portrait of {{ image.name }}">
