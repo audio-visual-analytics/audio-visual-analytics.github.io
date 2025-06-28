@@ -55,11 +55,11 @@ Actual multimodal approaches should be based on complementary and mutually suppo
 This workshop series aims to build a community of researchers from both fields, to work towards a common language, and to find research gaps for a combined visualization and sonification theory.
 
 **Upcoming events:**
-<!-- * to be announced -->
-* [Dagstuhl seminar (Schloss Dagstuhl, Germany): Feb 9-14, 2025](https://www.dagstuhl.de/25072)
-* [STAR and Panel @ EuroVis 2024 (Odense, Denmark): May 29-30, 2024](eurovis2024)
+* to be announced
 
 **Past events:**
+* [Dagstuhl seminar (Schloss Dagstuhl, Germany): Feb 9-14, 2025](https://www.dagstuhl.de/25072)
+* [STAR and Panel @ EuroVis 2024 (Odense, Denmark): May 29-30, 2024](eurovis2024)
 * [Panel Discussion @ ICAD 2023 (Norrköping, Sweden): June 29, 2023](icad2023)
 * [AVAC Online Meet-Ups](meetups)
 * [Application Spotlight @ IEEE VIS (Oklahoma City, USA/hybrid): October 20, 2022](vis2022)
